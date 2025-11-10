@@ -1,1 +1,6 @@
+ HEAD
+
 Different line from main
+
+Line from branch1
+ branch1
